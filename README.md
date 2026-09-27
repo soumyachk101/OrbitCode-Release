@@ -14,11 +14,28 @@ Download the latest version for your platform from the [Releases page](https://g
 
 | Platform | Architecture | File |
 | :--- | :--- | :--- |
-| **macOS** | Apple Silicon (arm64) | [`orbit-1.1.0-macos-arm64.dmg`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-macos-arm64.dmg) |
+| **macOS (Direct DMG)** | Apple Silicon (arm64) | [`Orbit.dmg`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/Orbit.dmg) |
+| **macOS (Versioned)** | Apple Silicon (arm64) | [`orbit-1.1.0-macos-arm64.dmg`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-macos-arm64.dmg) |
 | **macOS Update Bundle** | Apple Silicon (arm64) | [`orbit-1.1.0-macos-arm64-app.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-macos-arm64-app.tar.gz) |
 | **Windows** | x64 Portable | [`orbit-1.1.0-windows-x86_64.zip`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-windows-x86_64.zip) |
 | **Linux** | x86_64 | [`orbit-1.1.0-linux-x86_64.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-linux-x86_64.tar.gz) |
 | **Linux** | ARM64 | [`orbit-1.1.0-linux-aarch64.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-linux-aarch64.tar.gz) |
+
+---
+
+## macOS Installation
+
+1. Download **`Orbit.dmg`** from the Releases section.
+2. Open the disk image and drag **Orbit.app** into **/Applications**.
+3. Launch Orbit from Applications or Spotlight.
+
+> **Note on macOS Gatekeeper:**
+> Because this is a free, open-source build not signed with an Apple Developer Program subscription, macOS Gatekeeper may show a verification dialog on first launch.
+> - Go to **System Settings > Privacy & Security**, scroll to **Security**, and click **Open Anyway**.
+> - Or run:
+>   ```bash
+>   xattr -cr /Applications/Orbit.app
+>   ```
 
 ---
 
