@@ -1,11 +1,11 @@
 {
-  "version": "0.2.94",
+  "version": "1.1.0",
   "files": {
-    "orbit-0.2.94-macos-arm64-app.tar.gz": {
-      "sha256": "ca0875b7870e700b38140d6c34ae51f495e514e051777d449b33cc8228e60a72"
+    "orbit-1.1.0-macos-arm64-app.tar.gz": {
+      "sha256": "1ca6093e071e2c1c42fb903a09bdb609e7b82acd21857ee609eb433f06f748f9"
     },
-    "orbit-0.2.94-macos-arm64.dmg": {
-      "sha256": "5d0f5fdf28ab18dfe4e5f618a47971971b67cce35cb334410633eaeaac9c251d"
+    "orbit-1.1.0-macos-arm64.dmg": {
+      "sha256": "cbfabc7c73a079e17bb26afac101f24dda6cc515df77e14a42b35b1dd7517eb4"
     }
   }
 }

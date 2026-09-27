@@ -30,7 +30,7 @@
     document.getElementById("ver").textContent = `v${version}`;
   };
   // A published fallback keeps downloads usable without the version endpoint.
-  const fallback = "0.2.94";
+  const fallback = "1.1.0";
   apply(fallback);
   fetch(`${base}latest.txt`, { credentials: "omit" })
     .then((r) => r.ok ? r.text() : Promise.reject())
