@@ -1,5 +1,5 @@
 (() => {
-  const base = "https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/";
+  const base = "https://orbit.sh/releases/";
   const releases = {
     macos: ["macos-arm64.dmg", "Download for macOS", "Apple silicon"],
     windows: ["windows-x86_64.zip", "Download for Windows", "Windows x64 · Portable ZIP"],
@@ -30,7 +30,7 @@
     document.getElementById("ver").textContent = `v${version}`;
   };
   // A published fallback keeps downloads usable without the version endpoint.
-  const fallback = "1.1.0";
+  const fallback = "1.1.1";
   apply(fallback);
   fetch(`${base}latest.txt`, { credentials: "omit" })
     .then((r) => r.ok ? r.text() : Promise.reject())

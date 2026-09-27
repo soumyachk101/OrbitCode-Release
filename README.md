@@ -8,18 +8,18 @@ Official release repository and downloads for **OrbitCode** — the blazing fast
 
 ---
 
-## Downloads (v1.1.0)
+## Downloads (v1.1.1)
 
 Download the latest version for your platform from the [Releases page](https://github.com/soumyachk101/OrbitCode-Release/releases/latest):
 
 | Platform | Architecture | File |
 | :--- | :--- | :--- |
 | **macOS (Direct DMG)** | Apple Silicon (arm64) | [`Orbit.dmg`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/Orbit.dmg) |
-| **macOS (Versioned)** | Apple Silicon (arm64) | [`orbit-1.1.0-macos-arm64.dmg`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-macos-arm64.dmg) |
-| **macOS Update Bundle** | Apple Silicon (arm64) | [`orbit-1.1.0-macos-arm64-app.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-macos-arm64-app.tar.gz) |
-| **Windows** | x64 Portable | [`orbit-1.1.0-windows-x86_64.zip`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-windows-x86_64.zip) |
-| **Linux** | x86_64 | [`orbit-1.1.0-linux-x86_64.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-linux-x86_64.tar.gz) |
-| **Linux** | ARM64 | [`orbit-1.1.0-linux-aarch64.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.0-linux-aarch64.tar.gz) |
+| **macOS (Versioned)** | Apple Silicon (arm64) | [`orbit-1.1.1-macos-arm64.dmg`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.1-macos-arm64.dmg) |
+| **macOS Update Bundle** | Apple Silicon (arm64) | [`orbit-1.1.1-macos-arm64-app.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.1-macos-arm64-app.tar.gz) |
+| **Windows** | x64 Portable | [`orbit-1.1.1-windows-x86_64.zip`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.1-windows-x86_64.zip) |
+| **Linux** | x86_64 | [`orbit-1.1.1-linux-x86_64.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.1-linux-x86_64.tar.gz) |
+| **Linux** | ARM64 | [`orbit-1.1.1-linux-aarch64.tar.gz`](https://github.com/soumyachk101/OrbitCode-Release/releases/latest/download/orbit-1.1.1-linux-aarch64.tar.gz) |
 
 ---
 
